@@ -10,9 +10,9 @@ let icons = [
   {name:"thirsty",value:"I am thirsty.", html:'<img src= "http://tinyurl.com/yxrhpthu">'},
   {name:"question",value:"I am confused.", html:'<img src= "http://tinyurl.com/y24vbx6r">'},
   {name:"smile",value:"Ha ha ha. That is so funny. L O L.", html:'<img src= "http://tinyurl.com/y4ysw4gc">'},
-  {name:"sad",value:"I'm sad.", html: '<img src= "http://tinyurl.com/y52e2aa6">'},
-  {name:"cold",value:"I'm cold.", html: '<img src= "http://tinyurl.com/y39on3or">'},
-  {name:"hot",value:"I'm hot.", html: '<img src= "http://tinyurl.com/y26gdygr">'}
+  {name:"sad",value:"I'm sad.", html: '<i class="fas fa-frown"></i>'},
+  {name:"cold",value:"I'm cold.", html: '<i class="fas fa-mitten"></i>'},
+  {name:"hot",value:"I'm hot.", html: '<i class="fab fa-hotjar"></i>'}
 ];
 
 let speechBox = document.getElementById("speechBox");
