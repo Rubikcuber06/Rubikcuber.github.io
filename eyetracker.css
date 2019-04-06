@@ -1,0 +1,96 @@
+html  {
+  background: rgba(153,204,255,0.5);
+}
+
+body {
+  text-align: center;
+  padding: 5em 0 2em;
+  font: 300 18px/1.6 "Indie FLower";
+}
+button {
+  height: 80px;
+  margin: 10px;
+  padding: 20px;
+  float: middle;
+  font-size: 35px;
+}
+
+.keyboard{
+  
+}
+
+.app {
+  font-size: 28px;
+  margin: 0 auto;
+  width: 100%;  
+}
+.screen1{
+  float: left;
+  width: 4.5em;
+  height: 1.1em;
+  margin-top: 0.15em;
+  margin-bottom: 0;
+  margin-right: 0;
+  padding: 0.1em;
+  text-align: right;
+  border: solid;
+
+}
+.screen2{
+  align: center; 
+  width: 80%;
+  height: 1.1em;
+  margin-top: 0.15em;
+  margin-bottom: 0;
+  margin-right: 0;
+  padding: 0.1em;
+  text-align: right;
+  border: solid;
+
+}
+
+.white {
+  border: 0;
+  background: rgba(255,255,255,1);
+  color: black;
+}
+.red {
+  border: 0;
+  background: rgba(255,0,0,1);
+  color: white;
+}
+.blue {
+  border: 0;
+  background: rgba(0,0,255,1);
+  color: white;
+}
+.green {
+  border: 0;
+  background: rgba(0,255,0,1);
+  color: white;
+}
+.yellow {
+  border: 0;
+  background: rgba(204,204,0,1);
+  color: white;
+}
+.orange {
+  border: 0;
+  background: rgba(255,128,0,1);
+  color: white
+}
+.black {
+  border: 0;
+  background: rgba(0,0,0,1);
+  color: white
+}
+.pink {
+  border: 0;
+  background: rgba(255,126,255,1);
+  color: white
+}
+.purple {
+  border: 0;
+  background: rgba(128,0,128,1);
+  color: white;
+}
